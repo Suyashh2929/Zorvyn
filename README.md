@@ -53,7 +53,7 @@ Login/Signup: Secure entry portal.
 ⚡ Quick Start
 1. Clone the Repository
 Bash
-git clone https://github.com/suyash2929/zorvyn-finance.git
+git clone https://suyashh2929.github.io/Zorvyn/
 cd zorvyn-finance
 2. Install Dependencies
 Bash
